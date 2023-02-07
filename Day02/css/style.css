@@ -1,0 +1,18 @@
+h1{
+    color: greenyellow;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+nav>a{
+    text-decoration: none;
+    font-size: x-large;
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+    line-height: 40px;
+}
+nav>a:hover{
+    background-color: blueviolet;
+}
+
